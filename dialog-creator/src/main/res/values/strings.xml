@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DialogCreator</string>
+    <string name="_dialog_create_error">Error</string>
+    <string name="_dialog_create_warning">Warning</string>
 </resources>
